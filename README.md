@@ -10,6 +10,7 @@ Description
 -----------
 
 Adapter to use NRF24L01 SMD radio module instead of regular modules. Footprints for optional capacitors.
+A PA+LNA SMD version is also [available](https://github.com/emc2cube/SMDnRF24_adapter/tree/master/PA_LNA/).
 
 
 Ordering
@@ -17,7 +18,7 @@ Ordering
 
 Gerber files are included so you can order these PCB at your favorite PCB fab house and solder the few components yourself.
 For an easy ordering process you can directly order these PCB without having to do anything else:
-- [OSHPark.com](https://www.oshpark.com/shared_projects/9x3sjTer) 3 for $1, purple 1.6mm PCB, ENIG finish.
+- [PCBs.io](https://PCBs.io/share/zMdRO) 4 for $0.82, black 1.6mm PCB, ENIG finish.
 
 
 Assembly
